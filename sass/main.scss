@@ -713,9 +713,9 @@ header {
 }
 .team-head {
   width: 100%;
-  display: inline-flex;
-  align-items: flex-start;
-  justify-content: flex-start;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   margin: 0 0 0.75vw 0;
 }
 .team-head img {
@@ -730,6 +730,7 @@ header {
 #team-container p {
   font-size: 1.15vw;
   color: var(--white);
+  text-align: center;
 }
 .team-box > img {
   width: 7.5vw;

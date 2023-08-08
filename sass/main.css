@@ -145,7 +145,6 @@ header {
 }
 
 .mint-btn {
-  width: -webkit-max-content;
   width: -moz-max-content;
   width: max-content;
   padding: 0.65vw 1.35vw;
@@ -181,7 +180,6 @@ header {
 }
 
 .l1-tree {
-  width: -webkit-max-content;
   width: -moz-max-content;
   width: max-content;
   height: 105%;
@@ -195,7 +193,6 @@ header {
 
 .mountain-right {
   width: 40%;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   -o-object-fit: contain;
@@ -208,7 +205,6 @@ header {
 
 .mountain-left {
   width: 50%;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   -o-object-fit: contain;
@@ -221,7 +217,6 @@ header {
 
 .rainbow {
   width: 25%;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   -o-object-fit: contain;
@@ -235,7 +230,6 @@ header {
 
 .l1-sun {
   width: 35%;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   -o-object-fit: contain;
@@ -250,7 +244,6 @@ header {
 
 .cloud-1 {
   width: 10%;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -267,7 +260,6 @@ header {
 
 .cloud-2 {
   width: 12.5%;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -278,7 +270,6 @@ header {
 
 .cloud-3 {
   width: 10%;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -289,7 +280,6 @@ header {
 
 .sb-logo {
   width: 45%;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   -o-object-fit: contain;
@@ -322,7 +312,6 @@ header {
 
 .layer-2-border-bottom {
   width: 100%;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -344,7 +333,6 @@ header {
 
 .bush-left {
   width: 15%;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   -o-object-fit: contain;
@@ -358,7 +346,6 @@ header {
 
 .bush-right {
   width: 22.5%;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   -o-object-fit: contain;
@@ -380,7 +367,6 @@ header {
 }
 
 .grass-nft-box img {
-  width: -webkit-max-content;
   width: -moz-max-content;
   width: max-content;
   height: 17.5vw;
@@ -465,7 +451,6 @@ header {
 }
 
 .l3-tree {
-  width: -webkit-max-content;
   width: -moz-max-content;
   width: max-content;
   height: 100%;
@@ -477,7 +462,6 @@ header {
 
 .l3-sun {
   width: 25%;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -487,7 +471,6 @@ header {
 
 .animated-nft {
   width: 25vw;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -499,7 +482,6 @@ header {
 
 .layer-4-text-box {
   width: 40%;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -509,7 +491,6 @@ header {
 
 .who-are-sb {
   width: 100%;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   margin: 0 0 1.5vw 0;
@@ -522,7 +503,6 @@ header {
 
 .cloud-4 {
   width: 10%;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -544,7 +524,6 @@ header {
 }
 
 .layer-4-bg {
-  width: -webkit-max-content;
   width: -moz-max-content;
   width: max-content;
   height: 100%;
@@ -558,7 +537,6 @@ header {
 
 .fence-1 {
   width: 15vw;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -570,7 +548,6 @@ header {
 
 .fence-2 {
   width: 15vw;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -617,7 +594,6 @@ header {
 
 .road {
   width: 100%;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   opacity: 0.65;
@@ -625,7 +601,6 @@ header {
 
 .road-back {
   width: 60%;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   opacity: 0;
@@ -644,7 +619,6 @@ header {
 } */
 .roadmap-cloud {
   width: 35%;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -657,7 +631,6 @@ header {
 .roadmap-text-box {
   width: 40%;
   z-index: 150;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -706,7 +679,6 @@ header {
 
 .palm-tree-left {
   width: 25%;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -717,7 +689,6 @@ header {
 
 .palm-tree-right {
   width: 25%;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -728,7 +699,6 @@ header {
 
 .island {
   width: 10vw;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -738,7 +708,6 @@ header {
 
 .merch {
   width: 12.5vw;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -748,7 +717,6 @@ header {
 
 .charity-icon {
   width: 12.5vw;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -758,7 +726,6 @@ header {
 
 .birds {
   width: 15vw;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -769,7 +736,6 @@ header {
 
 .bird-1 {
   width: 8.5vw;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -780,7 +746,6 @@ header {
 
 .bird-2 {
   width: 8.5vw;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -791,7 +756,6 @@ header {
 
 #purple-bush {
   width: 35vw;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   bottom: -10%;
@@ -827,7 +791,6 @@ header {
 
 #vr-bros {
   width: 30vw;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -837,7 +800,6 @@ header {
 
 #team-text {
   width: 35vw;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: relative;
@@ -896,9 +858,9 @@ header {
 
 .team-head {
   width: 100%;
-  display: inline-flex;
-  align-items: flex-start;
-  justify-content: flex-start;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   margin: 0 0 0.75vw 0;
 }
 
@@ -916,11 +878,11 @@ header {
 #team-container p {
   font-size: 1.15vw;
   color: var(--white);
+  text-align: center;
 }
 
 .team-box > img {
   width: 7.5vw;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
 }
@@ -950,7 +912,6 @@ header {
 
 .moon-cloud-1 {
   width: 45vw;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -961,7 +922,6 @@ header {
 
 .moon-cloud-2 {
   width: 25vw;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -972,7 +932,6 @@ header {
 
 .moon-cloud-3 {
   width: 30vw;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: absolute;
@@ -983,7 +942,6 @@ header {
 
 .moon-cloud-4 {
   width: 20vw;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   top: 10%;
@@ -994,7 +952,6 @@ header {
 
 .moon-cloud-5 {
   width: 25vw;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   top: 75%;
@@ -1005,7 +962,6 @@ header {
 
 .moon-cloud-6 {
   width: 10vw;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   top: -50%;
@@ -1025,7 +981,6 @@ header {
 
 #faq-text {
   width: 15vw;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   position: relative;
@@ -1114,7 +1069,6 @@ header {
 
 .sleeping {
   width: 12.5vw;
-  height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   top: 0;
@@ -1198,48 +1152,40 @@ header {
 /* Mobile Design */
 @media screen and (max-width: 1250px) {
   .header-right a,
-.layer-4-text-box p,
-.faq-q h6,
-.faq-q,
-.mint-btn {
+  .layer-4-text-box p,
+  .faq-q h6,
+  .faq-q,
+  .mint-btn {
     font-size: 1.65vw;
   }
-
   .layer-4-text-box {
     width: 45%;
   }
-
   #team-container h3 {
     font-size: 2.5vw;
   }
-
   .team-head img {
     width: 2.5vw;
   }
-
   #team-container p,
-.footer i,
-.footer-content p,
-.roadmap-text-box p,
-.footer-right a,
-.faq-a p {
+  .footer i,
+  .footer-content p,
+  .roadmap-text-box p,
+  .footer-right a,
+  .faq-a p {
     font-size: 1.5vw;
   }
-
   #team-container,
-.faq-box {
+  .faq-box {
     padding: 0 5vw;
     width: 100%;
   }
-
   .roadmap-text-box {
     width: 35%;
   }
-
   .charity-icon {
     right: -75%;
   }
-
   .faq-q img {
     width: 2.75vw;
   }
@@ -1250,32 +1196,26 @@ header {
     padding: 0 5vw;
     display: none;
   }
-
   .road-back {
-    width: -webkit-max-content;
     width: -moz-max-content;
     width: max-content;
     height: 150%;
     padding: 0 5vw;
     display: none;
   }
-
   .palm-tree-right,
-.palm-tree-left {
+  .palm-tree-left {
     display: none;
   }
-
   #vr-bros {
     width: 50vw;
     top: -3%;
     opacity: 0.75;
   }
-
   .roadmap-text-box {
     width: 100%;
     padding: 0 5vw;
   }
-
   .roadmap-cloud {
     width: 60%;
     top: unset;
@@ -1283,17 +1223,14 @@ header {
     transform: unset;
     position: relative;
   }
-
   .road-box {
     opacity: 0;
   }
-
   .roadmap-track {
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
   }
-
   .roadmap-text-box-1 {
     position: relative;
     left: unset;
@@ -1301,7 +1238,6 @@ header {
     height: unset;
     padding: 15vw 5vw;
   }
-
   .roadmap-text-box-2 {
     position: relative;
     left: unset;
@@ -1309,7 +1245,6 @@ header {
     height: unset;
     padding: 15vw 5vw;
   }
-
   .roadmap-text-box-3 {
     left: unset;
     top: unset;
@@ -1317,7 +1252,6 @@ header {
     height: unset;
     padding: 15vw 5vw;
   }
-
   .roadmap-text-box-4 {
     position: relative;
     left: unset;
@@ -1325,17 +1259,14 @@ header {
     height: unset;
     padding: 15vw 5vw;
   }
-
   .roadmap-text-box h3 {
     font-size: 4vw;
   }
-
   .bird-1,
-.bird-2,
-.birds {
+  .bird-2,
+  .birds {
     opacity: 0.5;
   }
-
   .island {
     width: 20vw;
     margin: 5vw 0 0 0;
@@ -1343,7 +1274,6 @@ header {
     opacity: 0.75;
     bottom: 0 !important;
   }
-
   .charity-icon {
     width: 20vw;
     margin: 5vw 0 0 0;
@@ -1351,7 +1281,6 @@ header {
     opacity: 0.75;
     bottom: 0 !important;
   }
-
   .merch {
     width: 17.5vw;
     margin: 5vw 0 0 0;
@@ -1359,190 +1288,151 @@ header {
     opacity: 0.75;
     bottom: -10% !important;
   }
-
   .sb-logo {
     width: 65%;
   }
-
   .mountain-right {
     width: 50%;
   }
-
   .mountain-left {
     width: 65%;
   }
-
   .rainbow {
     width: 30%;
   }
-
   .bros-3 {
     width: 32.5%;
   }
-
   .l1-sun {
     width: 42.5%;
   }
-
   .bush-right {
     width: 30%;
   }
-
   .bush-left {
     width: 17.5%;
   }
-
   .header-left a img {
     width: 3.5vw;
   }
-
   .header-left a {
     margin: 0 2.5vw 0 0;
   }
-
   .header-right a,
-.layer-4-text-box p,
-.faq-q,
-.faq-q h6,
-.mint-btn {
+  .layer-4-text-box p,
+  .faq-q,
+  .faq-q h6,
+  .mint-btn {
     font-size: 2.25vw;
   }
-
   #team-container p,
-.footer i,
-.footer-content p,
-.roadmap-text-box p,
-.footer-right a,
-.faq-a p {
+  .footer i,
+  .footer-content p,
+  .roadmap-text-box p,
+  .footer-right a,
+  .faq-a p {
     font-size: 2.25vw;
   }
-
   .grass-nft-box img {
     height: 22.5vw;
   }
-
   .header-content {
     height: 10vw;
   }
-
   .animated-nft {
     width: 30vw;
   }
-
   .l3-sun {
     width: 30%;
   }
-
   .fence-1 {
     width: 20vw;
   }
-
   #team-text {
     width: 40vw;
     margin: 0 0 15vw 0;
   }
-
   #layer-5 {
     padding: 15vw 0;
   }
-
   #team-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: auto;
     grid-gap: 5vw;
   }
-
   .team-box:nth-child(1),
-.team-box:nth-child(2),
-.team-box:nth-child(3),
-.team-box:nth-child(4),
-.team-box:nth-child(5),
-.team-box:nth-child(6),
-.team-box:nth-child(7) {
+  .team-box:nth-child(2),
+  .team-box:nth-child(3),
+  .team-box:nth-child(4),
+  .team-box:nth-child(5),
+  .team-box:nth-child(6),
+  .team-box:nth-child(7) {
     width: 100%;
   }
-
   .team-box:nth-child(1) img,
-.team-box:nth-child(2) img,
-.team-box:nth-child(3) img {
+  .team-box:nth-child(2) img,
+  .team-box:nth-child(3) img {
     order: 1;
   }
-
   .team-box:nth-child(1) main,
-.team-box:nth-child(2) main,
-.team-box:nth-child(3) main {
+  .team-box:nth-child(2) main,
+  .team-box:nth-child(3) main {
     order: 2;
   }
-
   .team-box {
     align-items: flex-start;
   }
-
   .team-box > img {
     width: 15vw;
     margin: 0 0 2.5vw 0 !important;
   }
-
   #team-container h3 {
     font-size: 4vw;
   }
-
   .team-head img {
     width: 4vw;
     margin: 0 0 0 2.5vw;
   }
-
   .team-head {
     margin: 0 0 1.5vw 0;
   }
-
   .faq-container {
     margin: 7.5vw 0 0 0;
     grid-gap: 5vw;
   }
-
   .sleeping {
     width: 20vw;
   }
-
   .footer {
     padding: 15vw 5vw 5vw 5vw;
   }
-
   .moon {
     width: 30vw;
     height: 30vw;
   }
-
   .moon-cloud-1 {
     width: 55vw;
     top: 55%;
   }
-
   .moon-cloud-2 {
     width: 35vw;
     top: 52.5%;
   }
-
   .moon-cloud-3 {
     width: 50vw;
     top: 45%;
   }
-
   .moon-cloud-5 {
     width: 32.5vw;
   }
-
   .faq-q img {
     width: 3.25vw;
   }
-
   #layer-5 {
     padding: 20vh 0 10vh 0;
     margin: -20vh 0 0 0;
   }
-
   #purple-bush {
     width: 65vw;
     bottom: -20%;
@@ -1553,25 +1443,20 @@ header {
   .small-bros {
     display: none;
   }
-
   .mob {
     display: block;
   }
-
   .mob-layer-1 {
     width: 100%;
     height: 85vh;
     overflow: hidden;
     position: relative;
   }
-
   .mountain-right {
     width: 95%;
   }
-
   .mob-rainbow {
     width: 50%;
-    height: -webkit-max-content;
     height: -moz-max-content;
     height: max-content;
     -o-object-fit: contain;
@@ -1582,10 +1467,8 @@ header {
     transform: translate(35%, -25%);
     z-index: 6;
   }
-
   .mob-l1-sun {
     width: 35%;
-    height: -webkit-max-content;
     height: -moz-max-content;
     height: max-content;
     -o-object-fit: contain;
@@ -1596,10 +1479,8 @@ header {
     z-index: 5;
     transform-origin: center;
   }
-
   .mob-cloud-1 {
     width: 30%;
-    height: -webkit-max-content;
     height: -moz-max-content;
     height: max-content;
     position: absolute;
@@ -1607,10 +1488,8 @@ header {
     right: 10%;
     z-index: 5;
   }
-
   .mob-cloud-2 {
     width: 25%;
-    height: -webkit-max-content;
     height: -moz-max-content;
     height: max-content;
     position: absolute;
@@ -1618,10 +1497,8 @@ header {
     left: 10%;
     z-index: 5;
   }
-
   .mob-bush-left {
     width: 40%;
-    height: -webkit-max-content;
     height: -moz-max-content;
     height: max-content;
     -o-object-fit: contain;
@@ -1631,10 +1508,8 @@ header {
     left: -2%;
     z-index: 10;
   }
-
   .mob-sb-logo {
     width: 80%;
-    height: -webkit-max-content;
     height: -moz-max-content;
     height: max-content;
     -o-object-fit: contain;
@@ -1645,17 +1520,14 @@ header {
     transform: translate(-50%, -50%);
     z-index: 70;
   }
-
   .grass-nft-box img {
     height: 25vw;
   }
-
   .grass-nft-1 {
     transform: translate(-275%, 0);
   }
-
   .menu,
-.clear {
+  .clear {
     width: 7.5vw;
     -o-object-fit: contain;
        object-fit: contain;
@@ -1665,15 +1537,12 @@ header {
     z-index: 5;
     opacity: 0.75;
   }
-
   .clear {
     display: none;
     z-index: 1001;
   }
-
   .header-mob {
     width: 100%;
-    height: -webkit-max-content;
     height: -moz-max-content;
     height: max-content;
     background-color: #fff;
@@ -1685,7 +1554,6 @@ header {
     padding: 7.5vw 5vw 5vw 5vw;
     z-index: 1000;
   }
-
   .header-mob a {
     margin: 0 0 5vw 0;
     font-size: 4vw;
@@ -1693,13 +1561,11 @@ header {
     text-align: center;
     width: 100%;
   }
-
   .header-mob main {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
   }
-
   .mob-layer-2 {
     width: 100%;
     padding: 10vw 7.5vw 40vw 7.5vw;
@@ -1707,25 +1573,21 @@ header {
     overflow: hidden;
     border-top: 1vw solid var(--black);
   }
-
   .layer-4-text-box {
     width: 100%;
     left: 0;
     top: 0;
     position: relative;
   }
-
   .layer-4-text-box p {
     font-size: 3.5vw;
   }
-
   .mob-animated-nft {
     width: 100%;
     padding: 10vw 25vw 5vw 25vw;
     position: relative;
     z-index: 5;
   }
-
   .mob-l3-sun {
     width: 35vw;
     height: 35vw;
@@ -1734,7 +1596,6 @@ header {
     left: -10vw;
     z-index: 3;
   }
-
   .mob-fence-1 {
     width: 25vw;
     position: absolute;
@@ -1742,7 +1603,6 @@ header {
     left: 50%;
     transform: translate(0, 20%) rotate(10deg);
   }
-
   .mob-fence-2 {
     width: 25vw;
     position: absolute;
@@ -1750,7 +1610,6 @@ header {
     right: 0;
     transform: translate(50%, 20%);
   }
-
   .mob-cloud-1-l3 {
     width: 25vw;
     bottom: 20%;
@@ -1758,7 +1617,6 @@ header {
     position: absolute;
     z-index: 3;
   }
-
   .mob-cloud-2-l3 {
     width: 15vw;
     top: 35%;
@@ -1766,13 +1624,11 @@ header {
     position: absolute;
     z-index: 3;
   }
-
   .mob-layer-3 {
     width: 100%;
     position: relative;
     overflow: hidden;
   }
-
   .mob-layer-3 {
     width: 100%;
     position: relative;
@@ -1784,38 +1640,32 @@ header {
     justify-content: flex-start;
     flex-direction: column;
   }
-
   .mob-roadmap-cloud {
     width: 60%;
     position: relative;
     z-index: 30;
   }
-
   .roadmap-text-box-1,
-.roadmap-text-box-2,
-.roadmap-text-box-3,
-.roadmap-text-box-4 {
+  .roadmap-text-box-2,
+  .roadmap-text-box-3,
+  .roadmap-text-box-4 {
     z-index: 5;
     padding: 15vw 7.5vw;
   }
-
   .roadmap-text-box h3 {
     font-size: 5.5vw;
     z-index: 6;
   }
-
   .roadmap-text-box p {
     font-size: 3.5vw;
     z-index: 6;
   }
-
   .charity-icon,
-.island,
-.merch {
+  .island,
+  .merch {
     width: 25vw;
     z-index: 5;
   }
-
   .mob-layer-5 {
     width: 100%;
     position: relative;
@@ -1827,93 +1677,72 @@ header {
     margin: -15vw 0 0 0;
     z-index: 10;
   }
-
   #vr-bros {
     width: 55vw;
     top: -25vw;
     opacity: 1;
     z-index: 15;
   }
-
   #team-text {
     width: 60vw;
   }
-
   #team-container {
     grid-template-columns: 1fr;
   }
-
   .team-box > img {
     width: 20vw;
   }
-
   #team-container h3 {
     font-size: 5.5vw;
   }
-
   .team-head img {
     width: 6.5vw;
   }
-
   .team-title {
     display: none;
   }
-
   #team-container p {
     font-size: 4vw;
   }
-
   #night-moon-box {
     height: 25vh;
   }
-
   #faq-text {
     width: 35vw;
   }
-
   .faq-q,
-.faq-a {
+  .faq-a {
     padding: 2.5vw 3.5vw;
   }
-
   .faq-q h6 {
     font-size: 4vw;
   }
-
   .faq-q img {
     width: 6.5vw;
   }
-
   .footer-content p {
     display: none;
   }
-
   .footer-right a {
     font-size: 4vw;
   }
-
   .footer i {
     font-size: 4vw;
     text-align: center;
   }
-
   .faq-a p {
     font-size: 4vw;
   }
-
   .footer-logo {
     width: 35vw;
     margin: 0 0 5vw 0;
   }
-
   .footer-content span a {
     margin: 0 3.5vw 0 0;
   }
-
   .footer-left span img {
     width: 5vw;
   }
-
   #mob-faq {
     width: 100%;
     display: flex;
@@ -1921,7 +1750,6 @@ header {
     align-items: center;
     margin: 0 auto;
   }
-
   .palm-tree-left {
     display: flex;
     bottom: 10vw;
